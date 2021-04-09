@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "GritDB: Git Versioned Graph Data"
+theme = "cactus"
+
+[params]
+
+description = """GritDB is a Postgres based multi-tenant Graph database with
+versioning functionality which allows change preparation and tracking modifications
+through history."""
